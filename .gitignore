@@ -1,7 +1,3 @@
-# Binaries
-server
-client
-
 # Database files
 *.db
 *.db-shm
